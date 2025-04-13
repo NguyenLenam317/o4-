@@ -1,0 +1,6 @@
+.weather-text {
+  overflow-wrap: break-word;
+  word-break: break-word;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
